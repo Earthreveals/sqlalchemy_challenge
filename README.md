@@ -50,8 +50,7 @@ Two analysis were performed on this project.
       -  Design a Flask API based on queries developed from above
   
 ## Results
-Summary of key results or findings from the analysis.## Contributing
-Information on how others can contribute to the project.
+See attached Jupyter Notebook for Climate and Data Analysis and Flask API 
 ## License
 Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overview of the Global Historical Climatology Network-Daily Database. Journal of Atmospheric and Oceanic Technology, 29, 897-910, https://journals.ametsoc.org/view/journals/atot/29/7/jtech-d-11-00103_1.xmlLinks to an external site..
 
